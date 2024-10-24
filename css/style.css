@@ -15,3 +15,8 @@ main {
     padding-left: 100px;
     padding-right: 100px;
 }
+
+section img {
+    height: 300px;
+    width: 500px;
+}
